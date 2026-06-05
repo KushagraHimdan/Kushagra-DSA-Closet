@@ -1,5 +1,3 @@
-package _01_Arrays;
-
 /*
 Problem: Reverse an Array
 
