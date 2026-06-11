@@ -10,7 +10,6 @@ Approach:
 1. Process the matrix layer by layer.
 2. Each layer forms a cycle.
 3. For every element in the current layer:
-
    * Move right element to top.
    * Move bottom element to right.
    * Move left element to bottom.
