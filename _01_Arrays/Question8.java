@@ -53,7 +53,9 @@ class Main {
         int cols = matrix[0].length;
 
         // Transposed matrix will have
+
         // cols rows and rows columns
+        
         ArrayList<ArrayList<Integer>> tMatrix = new ArrayList<>();
 
         for (int i = 0; i < cols; i++) {
