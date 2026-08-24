@@ -1,3 +1,5 @@
+package AP1_GetAverage;
+
 public class AP1 {
 
     static double getAverage(int[] arr) {
