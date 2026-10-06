@@ -1,4 +1,4 @@
-package AP5_SumOfPositiveNegative;
+package AP05_SumOfPositiveNegative;
 
 public class AP5 {
     public static int[] sumOfPositiveAndNegative(int[] arr) {

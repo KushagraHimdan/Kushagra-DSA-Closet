@@ -1,4 +1,4 @@
-package AP2_MultiplyArrayElementBy10;
+package AP02_MultiplyArrayElementBy10;
 
 public class AP2 {
 

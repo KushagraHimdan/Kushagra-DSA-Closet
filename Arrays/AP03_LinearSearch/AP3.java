@@ -1,4 +1,4 @@
-package AP3_LinearSearch;
+package AP03_LinearSearch;
 
 public class AP3 {
 

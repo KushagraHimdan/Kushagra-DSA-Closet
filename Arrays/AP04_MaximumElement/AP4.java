@@ -1,4 +1,4 @@
-package AP4_MaximumElement;
+package AP04_MaximumElement;
 
 public class AP4 {
     public static int findMax(int[] arr) {

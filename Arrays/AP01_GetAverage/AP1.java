@@ -1,4 +1,4 @@
-package AP1_GetAverage;
+package AP01_GetAverage;
 
 public class AP1 {
 
